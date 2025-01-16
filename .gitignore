@@ -1,0 +1,10 @@
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+.venv/
+
+.DS_Store
+
+*.class
