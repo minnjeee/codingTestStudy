@@ -1,4 +1,4 @@
-public class Main1 {
+public class java25083 {
     public static void main(String[] args) {
         System.out.println("         ,r'\"7");
         System.out.println("r`-_   ,'  ,/");

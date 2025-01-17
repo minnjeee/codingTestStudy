@@ -4,6 +4,7 @@
 *.iws
 .idea/
 .venv/
+.out/
 
 .DS_Store
 

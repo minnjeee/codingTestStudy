@@ -1,6 +1,6 @@
 import java.io.*;
 
-public class Main3003 {
+public class java3003 {
     public static void main(String[] args) throws IOException {
         int[] basicArray = {1,1,2,2,2,8};
 
