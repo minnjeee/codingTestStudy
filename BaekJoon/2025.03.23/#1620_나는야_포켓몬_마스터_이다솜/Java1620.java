@@ -25,7 +25,5 @@ public class Java1620 {
         }
         br.close();
         System.out.println(sb.toString());
-
-
     }
 }
